@@ -127,7 +127,7 @@ Je privilégie une approche structurée, qui part de la question métier avant d
 
 Je suis intéressé par les opportunités en **Data Analytics / Data Analysis**, en particulier autour de la connaissance client, de l'analyse de performance, de la segmentation et de la Business Intelligence.
 
-- 💻 GitHub : [@Engeryu](https://github.com/Nigel95)
+- 💻 GitHub : [@Nigel](https://github.com/Nigel95)
 - 💼 LinkedIn : *https://www.linkedin.com/in/nigel-zannou-39a029120/*
 
 ---
