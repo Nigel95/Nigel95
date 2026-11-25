@@ -14,7 +14,6 @@ Aujourd'hui, je mobilise **Python, SQL et les outils de Business Intelligence** 
 
 ## 🛠️ Tech Stack & Skills
 
-Les badges ci-dessous sont des images intégrées depuis [Shields.io](https://shields.io/). Ils permettent d'identifier rapidement les outils que j'utilise, dans une présentation proche du tableau de référence.
 
 <table>
   <tr>
