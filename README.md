@@ -108,14 +108,14 @@ Je privilégie une approche structurée, qui part de la question métier avant d
 
 ## 💼 Expérience & formation
 
-**Ipsos BVA — 7 ans**
+**Ipsos BVA - 7 ans**
 
 - Conception et déploiement de questionnaires pour des études internationales, notamment dans les secteurs du luxe et du retail.
 - Fiabilisation et traitement de données d'enquêtes.
 - Conception de systèmes de scoring pour transformer les réponses en indicateurs de performance.
 - Automatisation de matrices et de reportings avec Excel et VBA.
 
-**Jedha — Data Analyst (2023–2024)**
+**Jedha - Data Analyst (2023–2024)**
 
 - Renforcement des compétences en analyse de données.
 - Pratique de Python, SQL et de la visualisation de données.
@@ -125,7 +125,7 @@ Je privilégie une approche structurée, qui part de la question métier avant d
 
 ## 📫 Me contacter
 
-Je suis intéressé par les opportunités en **Data Analytics / Data Analysis**, en particulier autour de la connaissance client, de l'analyse de performance, de la segmentation et de la Business Intelligence.
+Je suis intéressé par les opportunités en ** Data Analysis/BI Analyst**, en particulier autour de la connaissance client, de l'analyse de performance, de la segmentation et de la Business Intelligence.
 
 - 📧 [nigzan@outlook.fr](mailto:nigzan@outlook.fr)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nigel-zannou-39a029120/)
