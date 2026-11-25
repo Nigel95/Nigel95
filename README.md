@@ -1,6 +1,6 @@
-# 👋 Bonjour, bienvenue sur mon GitHub !
+#  Bienvenue sur mon GitHub !
 
-## 📊 Data Analyst | Python • SQL • Power BI
+##  Data Analyst | Python • SQL • Power BI
 
 Je suis Data Analyst, avec une expérience de **7 ans chez Ipsos BVA** dans le traitement, la fiabilisation et l'analyse de données d'enquêtes pour des clients internationaux des secteurs du luxe et du retail.
 
@@ -60,7 +60,7 @@ Les badges ci-dessous sont des images intégrées depuis [Shields.io](https://sh
 
 ---
 
-## 🚀 Projets Data
+##  Projets Data
 
 Je construis un portfolio de projets appliqués à des problématiques concrètes : fidélisation client, analyse de marché, performance et aide à la décision.
 
@@ -75,15 +75,7 @@ Je construis un portfolio de projets appliqués à des problématiques concrète
 
 **Outils :** Python, Pandas, SQL Server, Power BI.
 
-### 🏠 Real Estate Market Analysis
 
-**Problématique :** explorer les données du marché immobilier pour mieux comprendre les niveaux de prix et les facteurs qui caractérisent les biens.
-
-- Exploration et préparation des données.
-- Analyse descriptive et recherche de tendances.
-- Visualisation des principaux résultats.
-
-**Outils :** Python, Pandas, visualisation de données.
 
 ### ⚽ Goalkeeper Performance Analysis
 
